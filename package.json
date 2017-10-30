@@ -1,0 +1,25 @@
+{
+  "name": "javascript-search",
+  "version": "1.0.0",
+  "description": "Javascript Search Helper",
+  "main": "search.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sagaryonjan/javascript-search.git"
+  },
+  "keywords": [
+    "javascrip",
+    "search"
+  ],
+  "author": "sagaryonjan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagaryonjan/javascript-search/issues"
+  },
+  "homepage": "https://github.com/sagaryonjan/javascript-search#readme"
+}
